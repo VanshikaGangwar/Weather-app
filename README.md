@@ -15,8 +15,11 @@ Users can search for any city and view live temperature, humidity, wind speed, a
 🛠️ Technologies Used
 
 HTML5 – Structure of the app
+
 CSS3 – Styling with a gradient background and responsive card layout
+
 JavaScript (Vanilla JS) – Fetching API data and DOM manipulation
+
 OpenWeatherMap API – Real-time weather information
 
 📂 Project Setup
