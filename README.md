@@ -3,6 +3,7 @@
 A simple and responsive Weather Application built with HTML, CSS, and JavaScript that fetches real-time weather data using the OpenWeatherMap API.
 Users can search for any city and view live temperature, humidity, wind speed, and dynamic weather icons.
 
+
 🚀 Features
 
 🔍 Search weather by city name
@@ -17,6 +18,7 @@ Users can search for any city and view live temperature, humidity, wind speed, a
 
 🎨 Clean and responsive UI design
 
+
 🛠️ Technologies Used
 
 HTML5 – Structure of the app
@@ -26,6 +28,7 @@ CSS3 – Styling with a gradient background and responsive card layout
 JavaScript (Vanilla JS) – Fetching API data and DOM manipulation
 
 OpenWeatherMap API – Real-time weather information
+
 
 📂 Project Setup
 
