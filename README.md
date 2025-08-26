@@ -6,10 +6,15 @@ Users can search for any city and view live temperature, humidity, wind speed, a
 🚀 Features
 
 🔍 Search weather by city name
+
 🌡️ Displays real-time temperature in Celsius
+
 💧 Shows humidity percentage
+
 🌬️ Displays wind speed
+
 🌤️ Dynamic weather icons (Sunny, Clouds, Rain, Mist, Snow, etc.)
+
 🎨 Clean and responsive UI design
 
 🛠️ Technologies Used
@@ -25,6 +30,9 @@ OpenWeatherMap API – Real-time weather information
 📂 Project Setup
 
 Clone this repository :  git clone https://github.com/your-username/weather-app.git
+
 Open the project folder.
+
 Replace the default API key inside index.html with your own OpenWeatherMap API key :  const apiKey = "YOUR_API_KEY_HERE";
+
 Open index.html in your browser to run the app.
