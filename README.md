@@ -4,6 +4,7 @@ A simple and responsive Weather Application built with HTML, CSS, and JavaScript
 Users can search for any city and view live temperature, humidity, wind speed, and dynamic weather icons.
 
 
+
 🚀 Features
 
 🔍 Search weather by city name
